@@ -1,0 +1,19 @@
+header{
+    height: 200px;
+    background-color: aqua;
+}
+
+img{
+    height: 200px;
+}
+
+footer{
+    height: 200px;
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    font-size: large;
+}
+
